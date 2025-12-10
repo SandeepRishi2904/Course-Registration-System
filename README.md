@@ -1,5 +1,3 @@
-# Course-Registration-System
-
 # 📘 **Course Registration System – Full Stack Project**
 
 A simple and functional **Course Registration System** built using **Spring Boot (Backend)** and **HTML, CSS, JavaScript (Frontend)**. The system allows users to:
