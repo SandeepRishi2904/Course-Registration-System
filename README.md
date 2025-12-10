@@ -345,5 +345,5 @@ Open the frontend folder with VS Code
 # 👨‍💻 **Author**
 
 **Sandeep Rishi J B**
-B.Tech Computer Science & Engineering
+B.E Computer Science & Engineering
 Skills: Java, Spring Boot, Python, ML, Full Stack, Firebase, MySQL, Streamlit
