@@ -1,8 +1,4 @@
 # Course-Registration-System
-Absolutely — here is a **clean, polished, professional, GitHub-ready README.md** for your **Course Registration System (Spring Boot + HTML/JS)** project.
-You can directly paste this into your GitHub repository.
-
----
 
 # 📘 **Course Registration System – Full Stack Project**
 
